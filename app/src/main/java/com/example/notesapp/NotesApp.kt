@@ -10,5 +10,6 @@ class NotesApp : Application() {
         //This is my Change From PersonB in BranchB
         super.onCreate()
         //My Message
+        //This is my Change From PersonA in BranchA
     }
 }
