@@ -9,6 +9,6 @@ class NotesApp : Application() {
     override fun onCreate() {
         //This is my Change From PersonB in BranchB
         super.onCreate()
-
+        //My Message
     }
 }
