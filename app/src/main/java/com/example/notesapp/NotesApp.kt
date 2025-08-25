@@ -8,6 +8,5 @@ class NotesApp : Application() {
 
     override fun onCreate() {
         super.onCreate()
-
     }
 }
